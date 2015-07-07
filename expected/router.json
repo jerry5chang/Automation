@@ -1,0 +1,7 @@
+{
+	"proto" : "http://",
+	"url" : "192.168.1.1",
+	"port" : "",
+	"username" : "admin", 
+	"password" : "admin"
+}

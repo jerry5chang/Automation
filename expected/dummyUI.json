@@ -1,0 +1,7 @@
+{
+	"proto" : "http://",
+	"url" : "ec2-54-202-251-7.us-west-2.compute.amazonaws.com/index.asp",
+	"port" : "",
+	"username" : "admin", 
+	"password" : "admin"
+}

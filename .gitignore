@@ -1,0 +1,6 @@
+.project
+*.DS_Store
+*.idea
+npm-debug.log
+selenium-debug.log
+phantomjsdriver.log
