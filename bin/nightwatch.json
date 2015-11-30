@@ -30,7 +30,7 @@
       "silent" : true,
       "disable_colors": false,
       "screenshots" : {
-        "enabled" : true,
+        "enabled" : false,
         "path" : "./reports/screen_shots"
       },
       "desiredCapabilities" : {
